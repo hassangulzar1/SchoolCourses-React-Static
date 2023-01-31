@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body {
+  background: #f0fff0;
+}
+header {
+  background-color: #c9f1c9;
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+}
+.parrot {
+  background-color: #c9f1c9;
+}
+nav {
+  display: flex;
+  margin: 0 50px;
+}
+#logo img {
+  width: 150px;
+  margin-top: 16px;
+}
+ul {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 557px;
+}
+ul li {
+  margin: 10px 24px;
+  list-style: none;
+}
+ul li a {
+  text-decoration: none;
+  color: black;
+  font-family: "Poppins";
+}
+ul li a:hover {
+  transition: 0.3s ease-in;
+  color: #21b573;
+}
+.btn {
+  padding: 8px 18px;
+  border: 2px solid #21b573;
+  color: white;
+  background-color: #21b573;
+  border-radius: 28px;
+  margin: 0px;
+  font-size: 1rem;
+  font-family: "Poppins", sans-serif;
+}
+.btn:hover {
+  background-color: rgb(255, 255, 255);
+  transition: 0.5s ease;
+  color: black;
+}
+.frame {
+  width: 588px;
+  margin-top: 50px;
+}
+
+.ready {
+  margin-top: 30px;
+  color: red;
+}
+.scedule {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+  display: inline;
+}
+.any {
+  color: green;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+}
+.lorem {
+  margin-top: 20px;
+  padding: 10px;
+  color: grey;
+}
+.images img {
+  width: 50px;
+  display: block;
+  margin-top: 100px;
+}
+.topics {
+  padding: 10px 0;
+  margin: 10px 0;
+}
+.anytihng {
+  color: grey;
+  font-size: 0.9rem;
+}
+
+.Courses {
+  margin-top: 50px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-weight: 700;
+}
+.Test {
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Poppins", sans-serif;
+}
+.elps img {
+  width: 100px;
+}
+
+footer {
+  background-color: #282531;
+  height: 40vh;
+  margin-top: 100px;
+}
+.color {
+  color: white;
+}
+.color a {
+  color: white;
+}
+.people {
+  margin-left: 6px;
+}
