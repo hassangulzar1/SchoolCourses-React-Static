@@ -1,0 +1,30 @@
+.frame {
+  width: 58.8rem;
+  margin-top: 5rem;
+}
+.parrot {
+  background-color: #c9f1c9;
+}
+.ready {
+  margin-top: 3rem;
+  color: red;
+  font-size: 2rem;
+}
+.scedule {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 6rem;
+  display: inline;
+}
+.any {
+  color: green;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 6rem;
+}
+.lorem {
+  margin-top: 2rem;
+  padding: 1rem;
+  color: grey;
+  font-size: 2rem;
+}

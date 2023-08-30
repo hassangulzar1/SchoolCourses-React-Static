@@ -1,0 +1,21 @@
+footer {
+  background-color: #282531;
+  height: 30vh;
+  margin-top: 10rem;
+}
+.color {
+  color: white;
+}
+
+.color a {
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.people {
+  margin-left: 0.6rem;
+}
+.color h4 {
+  font-size: 2.4rem;
+  font-weight: 600;
+}

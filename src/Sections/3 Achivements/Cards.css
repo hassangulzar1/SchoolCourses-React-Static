@@ -1,0 +1,15 @@
+.images img {
+  width: 5rem;
+  display: block;
+  margin-top: 10rem;
+}
+.topics {
+  padding: 1rem 0;
+  margin: 1rem 0;
+  font-size: 2rem;
+}
+.anytihng {
+  color: grey;
+  font-size: 0.9rem;
+  font-size: 1.4rem;
+}
